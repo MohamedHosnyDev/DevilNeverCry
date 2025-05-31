@@ -1,0 +1,282 @@
+[
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\Source\\DevelNeverCry\\BTService_AssignIsReached.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\.vscode\\compileCommands_Default\\DevelNeverCry.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\Source\\DevelNeverCry\\BTService_AssignIsReached.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\.vscode\\compileCommands_Default\\DevelNeverCry.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\Source\\DevelNeverCry\\BTTask_AttackThePlayer.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\.vscode\\compileCommands_Default\\DevelNeverCry.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\Source\\DevelNeverCry\\BTTask_AttackThePlayer.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\.vscode\\compileCommands_Default\\DevelNeverCry.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\Source\\DevelNeverCry\\BTTask_GoToTheNearestPlayer.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\.vscode\\compileCommands_Default\\DevelNeverCry.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\Source\\DevelNeverCry\\BTTask_GoToTheNearestPlayer.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\.vscode\\compileCommands_Default\\DevelNeverCry.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\Source\\DevelNeverCry\\DevelNeverCry.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\.vscode\\compileCommands_Default\\DevelNeverCry.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\Source\\DevelNeverCry\\DevelNeverCry.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\.vscode\\compileCommands_Default\\DevelNeverCry.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\Source\\DevelNeverCry\\DevelNeverCry.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\.vscode\\compileCommands_Default\\DevelNeverCry.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\Source\\DevelNeverCry\\DevelNeverCryCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\.vscode\\compileCommands_Default\\DevelNeverCry.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\Source\\DevelNeverCry\\DevelNeverCryCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\.vscode\\compileCommands_Default\\DevelNeverCry.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\Source\\DevelNeverCry\\DevelNeverCryGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\.vscode\\compileCommands_Default\\DevelNeverCry.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\Source\\DevelNeverCry\\DevelNeverCryGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\.vscode\\compileCommands_Default\\DevelNeverCry.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\Source\\DevelNeverCry\\Enemy.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\.vscode\\compileCommands_Default\\DevelNeverCry.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\Source\\DevelNeverCry\\Enemy.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\.vscode\\compileCommands_Default\\DevelNeverCry.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\Source\\DevelNeverCry\\EnemyController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\.vscode\\compileCommands_Default\\DevelNeverCry.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\Source\\DevelNeverCry\\EnemyController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\.vscode\\compileCommands_Default\\DevelNeverCry.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\Source\\DevelNeverCry\\GreenOrbCollisionBox.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\.vscode\\compileCommands_Default\\DevelNeverCry.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\Source\\DevelNeverCry\\GreenOrbCollisionBox.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\.vscode\\compileCommands_Default\\DevelNeverCry.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\Source\\DevelNeverCry\\MeleeWeapon.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\.vscode\\compileCommands_Default\\DevelNeverCry.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\Source\\DevelNeverCry\\MeleeWeapon.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\.vscode\\compileCommands_Default\\DevelNeverCry.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\Source\\DevelNeverCry\\PlayerCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\.vscode\\compileCommands_Default\\DevelNeverCry.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\Source\\DevelNeverCry\\PlayerCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\.vscode\\compileCommands_Default\\DevelNeverCry.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\Source\\DevelNeverCry\\PlayerCharacterController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\.vscode\\compileCommands_Default\\DevelNeverCry.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\Source\\DevelNeverCry\\PlayerCharacterController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\.vscode\\compileCommands_Default\\DevelNeverCry.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\Source\\DevelNeverCry\\RedOrbCollisionBox.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\.vscode\\compileCommands_Default\\DevelNeverCry.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\Source\\DevelNeverCry\\RedOrbCollisionBox.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\.vscode\\compileCommands_Default\\DevelNeverCry.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\Source\\DevelNeverCry\\ShootingWeapon.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\.vscode\\compileCommands_Default\\DevelNeverCry.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\Source\\DevelNeverCry\\ShootingWeapon.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\.vscode\\compileCommands_Default\\DevelNeverCry.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\Source\\DevelNeverCry\\SwordCollisionBox.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\.vscode\\compileCommands_Default\\DevelNeverCry.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\Source\\DevelNeverCry\\SwordCollisionBox.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\.vscode\\compileCommands_Default\\DevelNeverCry.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\Source\\DevelNeverCry\\TheGameInstance.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\.vscode\\compileCommands_Default\\DevelNeverCry.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\Source\\DevelNeverCry\\TheGameInstance.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\.vscode\\compileCommands_Default\\DevelNeverCry.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\Source\\DevelNeverCry\\TheGameState.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\.vscode\\compileCommands_Default\\DevelNeverCry.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\Source\\DevelNeverCry\\TheGameState.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\DevelNeverCry\\.vscode\\compileCommands_Default\\DevelNeverCry.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	}
+]
