@@ -7,7 +7,7 @@
 #include "PlayerCharacter.h"
 #include "Kismet/GameplayStatics.h"
 
-AEnemy * Enemy ;
+AEnemy * TheEnemy ;
 APlayerCharacter * Player ;
 
 // Sets default values
@@ -74,22 +74,22 @@ void AMeleeWeapon::OnHitActor(AActor * HittedActor)
 				UGameplayStatics::PlaySoundAtLocation(GetWorld(),WeopenSound,GetActorLocation(),GetActorRotation());
 			}
 
-			Enemy = Cast<AEnemy>(HittedActor) ;
-			Enemy -> CurrentHealth -= DamageAmount ;
+			TheEnemy = Cast<AEnemy>(HittedActor) ;
+			TheEnemy -> CurrentHealth -= DamageAmount ;
 			//The sword hit will make the enemy step back slightly (I have rotated the enemy mesh 90 degrees to the right )
-			Enemy->SetActorLocation(Enemy->GetActorLocation() - (Enemy->GetActorRightVector() * 5));
-			Enemy->ActivateDamageAnimation(Player->SwordAttackIndex);
+			TheEnemy->SetActorLocation(TheEnemy->GetActorLocation() - (TheEnemy->GetActorRightVector() * 5));
+			TheEnemy->ActivateDamageAnimation(Player->SwordAttackIndex);
 			//If the sword attack index == 4 the enemy will fly in the air
 			if(Player->SwordAttackIndex == 4)
 			{
-				FVector EnemyOldLocation = Enemy->GetActorLocation();
+				FVector EnemyOldLocation = TheEnemy->GetActorLocation();
 				float EnemyDistanceDifference = 0;
-				FVector EnemyCurrentLocation = Enemy -> GetActorLocation();
+				FVector EnemyCurrentLocation = TheEnemy -> GetActorLocation();
 				FVector EnemyTargetLocation = EnemyCurrentLocation + FVector(0,0,4000);
 				float MoveSpeed = 2 ;
 				float DeltaTime = UGameplayStatics::GetWorldDeltaSeconds(GetWorld());
 				FVector EnemyNewLocation = FMath::VInterpTo(EnemyCurrentLocation , EnemyTargetLocation , MoveSpeed , DeltaTime);
-				Enemy->SetActorLocation(EnemyNewLocation);
+				TheEnemy->SetActorLocation(EnemyNewLocation);
 			}
 
 			CanAttack = false ;
@@ -98,9 +98,9 @@ void AMeleeWeapon::OnHitActor(AActor * HittedActor)
 	
 	case false :
 
-		Enemy = Cast<AEnemy>(WeaponOwner) ;
+		TheEnemy = Cast<AEnemy>(WeaponOwner) ;
 
-		if(HittedActor -> ActorHasTag("Player") && !(Enemy->IsNormallyDamaged || Enemy->IsUpperDamaged || Enemy->IsDead || Enemy->IsMoving ))
+		if(HittedActor -> ActorHasTag("Player") && !(TheEnemy->IsNormallyDamaged || TheEnemy->IsUpperDamaged || TheEnemy->IsDead || TheEnemy->IsMoving ))
 		{
 			if(WeaponParticles && HittedActor != WeaponOwner)
 			{

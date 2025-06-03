@@ -35,20 +35,20 @@ void APlayerCharacterController::GameHasEnded(AActor * FocusActor , bool PlayerI
 {
     Super::GameHasEnded(FocusActor , PlayerIsWinner);
 
-    AEnemy * Enemy ;
+    AEnemy * TheEnemy ;
     UGameplayStatics::GetAllActorsOfClass(GetWorld() , AEnemy::StaticClass() , EnemiesArray);
 
     for(AActor * Actor : EnemiesArray)
     {
-        Enemy = Cast<AEnemy>(Actor);
+        TheEnemy = Cast<AEnemy>(Actor);
         
         //I have to destroy the weapons first and after that destroy the enemy so that the weapon don`t stay in the level when the enemies are destroyed
-        if(Enemy->LeftMeleeWeapon)
+        if(TheEnemy->LeftMeleeWeapon)
         {
-            Enemy->LeftMeleeWeapon->Destroy();
+            TheEnemy->LeftMeleeWeapon->Destroy();
         }
-        Enemy->RightMeleeWeapon->Destroy();
-        Enemy->Destroy();
+        TheEnemy->RightMeleeWeapon->Destroy();
+        TheEnemy->Destroy();
     }
     
 }
