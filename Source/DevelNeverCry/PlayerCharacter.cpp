@@ -24,6 +24,7 @@ APlayerCharacter::APlayerCharacter()
 
 	HasChoosedAimingEnemy = false ;
 	CanUseShotGun = true ;
+
 	BoolVariables.IsDamaged = false ;
 	BoolVariables.IsAttackingWithSword = false ;
 	BoolVariables.IsAimingWithGun = false ;

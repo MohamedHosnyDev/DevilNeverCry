@@ -16,13 +16,7 @@ AEnemy::AEnemy()
 	//We will check this tag to damage the enemy using a melee weapon
 	Tags.Add(TEXT("Enemy"));
 
-	IsReviving = false ;
-	IsMoving = true ;
-	IsAttacking = false ;
-	IsNormallyDamaged = false ;
-	IsUpperDamaged = false ;
-	IsDead = false ;
-	IsStandingUp = false ;
+	IsReviving = IsMoving = IsAttacking = IsNormallyDamaged = IsUpperDamaged = IsDead = IsStandingUp = false ;
 }
 
 // Called when the game starts or when spawned
